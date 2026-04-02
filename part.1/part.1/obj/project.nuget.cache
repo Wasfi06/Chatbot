@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5mhbGbzaG9M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\inert\\source\\repos\\part.1\\part.1\\part.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\inert\\.nuget\\packages\\system.windows.extensions\\10.0.5\\system.windows.extensions.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
