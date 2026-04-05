@@ -1,0 +1,10 @@
+C:\Users\inert\source\repos\ChatbotGUI\ChatbotGUI\bin\Debug\ChatbotGUI.exe.config
+C:\Users\inert\source\repos\ChatbotGUI\ChatbotGUI\bin\Debug\ChatbotGUI.exe
+C:\Users\inert\source\repos\ChatbotGUI\ChatbotGUI\bin\Debug\ChatbotGUI.pdb
+C:\Users\inert\source\repos\ChatbotGUI\ChatbotGUI\obj\Debug\ChatbotGUI.csproj.AssemblyReference.cache
+C:\Users\inert\source\repos\ChatbotGUI\ChatbotGUI\obj\Debug\ChatbotGUI.Form1.resources
+C:\Users\inert\source\repos\ChatbotGUI\ChatbotGUI\obj\Debug\ChatbotGUI.Properties.Resources.resources
+C:\Users\inert\source\repos\ChatbotGUI\ChatbotGUI\obj\Debug\ChatbotGUI.csproj.GenerateResource.cache
+C:\Users\inert\source\repos\ChatbotGUI\ChatbotGUI\obj\Debug\ChatbotGUI.csproj.CoreCompileInputs.cache
+C:\Users\inert\source\repos\ChatbotGUI\ChatbotGUI\obj\Debug\ChatbotGUI.exe
+C:\Users\inert\source\repos\ChatbotGUI\ChatbotGUI\obj\Debug\ChatbotGUI.pdb
