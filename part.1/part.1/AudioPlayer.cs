@@ -7,6 +7,8 @@ namespace CSAI.Audio
     {
         public static void PlayGreeting()
         {
+            //adding a path for audio
+        
             string path = "C:\\Users\\inert\\source\\repos\\part.1\\part.1\\Assets\\ChatWasfi.wav";
 
             if (File.Exists(path))
