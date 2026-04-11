@@ -19,6 +19,7 @@ namespace CSAI.Chatbot
             Console.WriteLine($"\nWelcome, {userName}! I'm your Cybersecurity Awareness Assistant.\n");
 
             while (true)
+                //as long as the user enters something other than "exit" the system will respond
             {
                 Console.Write("You: ");
                 string input = Console.ReadLine();
