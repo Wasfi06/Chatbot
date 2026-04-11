@@ -37,6 +37,7 @@ namespace CSAI.Chatbot
 
         private string GetResponse(string input)
         {
+            //these are the chatbots series if responses
             if (input.Contains("how are you"))
                 return "I'm just a bot, but I'm here to help you stay safe online!";
 
