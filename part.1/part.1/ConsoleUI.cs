@@ -7,7 +7,7 @@ namespace CSAI.UI
     {
         public static void DisplayAsciiArt()
         {
-            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.ForegroundColor = ConsoleColor.Cyan; //changes the colour of the cover page
 
             Console.WriteLine("=====================================");
             Console.WriteLine("   CYBERSECURITY AWARENESS BOT");
