@@ -9,6 +9,7 @@ namespace CSAI
     {
         static void Main(string[] args)
         {
+            //calling the other methods to the main method
             AudioPlayer.PlayGreeting();
 
             ConsoleUI.DisplayAsciiArt();
