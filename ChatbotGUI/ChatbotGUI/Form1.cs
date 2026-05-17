@@ -44,7 +44,7 @@ namespace ChatbotGUI
                 return;
             }
 
-            // this is the chatbots noraml response
+            // this is the chatbots normal response
             string response = bot.GetResponse(input);
             chatBox.AppendText("Bot: " + response + "\n\n");
 
