@@ -25,7 +25,7 @@ namespace ChatbotGUI
             input = input.ToLower().Trim();
 
             conversationHistory.Add(input);
-
+            //series of questions and keywords to enter into chatbot
             if (input.Contains("worried") || input.Contains("scared"))
                 userMood = "worried";
             else if (input.Contains("happy") || input.Contains("good"))
