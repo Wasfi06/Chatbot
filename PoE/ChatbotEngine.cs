@@ -33,7 +33,7 @@ namespace CyberChatbotGUI
         {
             LoadQuizQuestions();
         }
-
+        // undividual must enter a username
         public void SetUserName(string name)
         {
             userName = name;
