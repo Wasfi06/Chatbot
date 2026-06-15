@@ -39,7 +39,7 @@ namespace ChatbotGUI
             using (MySqlConnection conn = new MySqlConnection(connectionString))
             {
                 conn.Open();
-
+                //using everything from task table
                 string query = "SELECT * FROM Tasks";
 
                 MySqlCommand cmd = new MySqlCommand(query, conn);
