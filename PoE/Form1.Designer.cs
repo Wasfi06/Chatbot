@@ -2,7 +2,7 @@
 {
     partial class Form1
     {
-
+        //layout for the chatbot
         private System.ComponentModel.IContainer components = null;
         private System.Windows.Forms.RichTextBox chatBox;
         private System.Windows.Forms.TextBox inputBox;
