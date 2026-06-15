@@ -47,7 +47,7 @@ namespace CyberChatbotGUI
             input = input.ToLower();
 
             DetectSentiment(input);
-
+            //this is the quiz section
             if (quizMode)
                 return HandleQuiz(input);
 
