@@ -15,7 +15,7 @@ namespace ChatbotGUI
             InitializeComponent();
             chatBox.ReadOnly = true;
         }
-
+        //introduction to the chatbot
         private void Form1_Load(object sender, EventArgs e)
         {
             AudioPlayer.PlayGreeting();
