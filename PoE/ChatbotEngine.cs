@@ -176,7 +176,7 @@ namespace CyberChatbotGUI
                 mood = "happy";
             }
         }
-
+        //true or false type questions
         private void LoadQuizQuestions()
         {
             quizQuestions.Add(new QuizQuestion()
